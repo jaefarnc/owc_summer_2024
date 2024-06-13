@@ -1,0 +1,5 @@
+classifier0.txt
+model = "facebook/bart-large-mnli"
+type used = "zero-shot classifier"
+labels = ["suspicious wildlife criminal","not suspicious wildlife criminal"]
+classify by tweets
